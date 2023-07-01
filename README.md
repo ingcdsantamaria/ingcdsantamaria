@@ -32,7 +32,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ingcdsantamaria&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="[meme](https://i.pinimg.com/564x/c3/92/2b/c3922bf9972c737159e4efc453f999aa.jpg)" width="512px"/>
+![meme](https://i.pinimg.com/564x/c3/92/2b/c3922bf9972c737159e4efc453f999aa.jpg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ingcdsantamaria&icon=0&color=0)](https://visitcount.itsvg.in)
